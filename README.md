@@ -54,4 +54,4 @@ You can use the following functions to generate text:
 - **`Assignment1_Massimo_Ridella.py`**: The main Python file containing all functions and logic for n-gram modeling and text generation.
 
 ## Survey Results
-
+![image alt](https://github.com/massimorid/NLP_Ass1/blob/main/Survey%20Results_%20AI%20Model%20Performance%20in%20Imitating%20Shakespeare.png?raw=true)
