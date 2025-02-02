@@ -53,3 +53,5 @@ You can use the following functions to generate text:
 ## File Structure
 - **`Assignment1_Massimo_Ridella.py`**: The main Python file containing all functions and logic for n-gram modeling and text generation.
 
+## Survey Results
+
